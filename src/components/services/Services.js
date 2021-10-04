@@ -8,7 +8,7 @@ import ServicesHome from './ServicesHome';
 const Services = () => {
     return (
         <div>
-            <CoverPage coverText="OUR SERVICES" />
+            <CoverPage coverText="OUR SERVICES" services="services" />
             <ServicesHome />
             <Activities />
             <PopularClasses />

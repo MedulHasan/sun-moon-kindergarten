@@ -1,0 +1,65 @@
+[
+    {
+        "key": "b1",
+        "title": "OUR SCHOOL ANNIVERSARY",
+        "body": "Lorem ipsum dolor sit amet, consectetur adcing elit Lorem ipsum dolor sit amet, consectetur adip iscing elit psum dolor sit amet.",
+        "img": "https://images.unsplash.com/photo-1509163245925-f4255dea7727?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHNjaG9vbGElMjBjaGlsZHJlbiUyMGFuaXZlcnNhcnl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "color": "#6FC191"
+    },
+    {
+        "key": "b2",
+        "title": "SEE OUR NEW DOWNLOAD AREA",
+        "body": "Lorem ipsum dolor sit amet, consectetur adcing elit Lorem ipsum dolor sit amet, consectetur adip iscing elit psum dolor sit amet.",
+        "img": "",
+        "color": "#C389CE"
+    },
+    {
+        "key": "b3",
+        "title": "SAY HALLO TO OUR TEACHERS",
+        "body": "Lorem ipsum dolor sit amet, consectetur adcing elit Lorem ipsum dolor sit amet, consectetur adip iscing elit psum dolor sit amet.",
+        "img": "https://images.unsplash.com/photo-1524069290683-0457abfe42c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpbGRyZW4lMjBoZWxsbyUyMHRlYWNoZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "color": "#EC774B"
+    },
+    {
+        "key": "b4",
+        "title": "BIO SPECIAL MEAL",
+        "body": "Lorem ipsum dolor sit amet, consectetur adcing elit Lorem ipsum dolor sit amet, consectetur adip iscing elit psum dolor sit amet.",
+        "img": "https://images.unsplash.com/photo-1556543365-e08680c86612?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTN8fG1lYWwlMjBjaGlsZHJlbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "color": "#74CEE4"
+    },
+    {
+        "key": "b5",
+        "title": "MUSIC ACTIVITIES FOR ALL",
+        "body": "Lorem ipsum dolor sit amet, consectetur adcing elit Lorem ipsum dolor sit amet, consectetur adip iscing elit psum dolor sit amet.",
+        "img": "https://images.unsplash.com/photo-1577877777751-3f1ec20a0715?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bXVzaWMlMjBjaGlsZHJlbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "color": "#E16C6C"
+    },
+    {
+        "key": "b6",
+        "title": "EXCURSION PRESENTATION",
+        "body": "Lorem ipsum dolor sit amet, consectetur adcing elit Lorem ipsum dolor sit amet, consectetur adip iscing elit psum dolor sit amet.",
+        "img": "https://images.unsplash.com/photo-1509163245925-f4255dea7727?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGV4Y3Vyc2lvbiUyMHByZXNlbnRhdGlvbiUyMGNoaWxkcmVufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "color": "#6FC191"
+    },
+    {
+        "key": "b7",
+        "title": "DOCTOR IN THE SCHOOL",
+        "body": "Lorem ipsum dolor sit amet, consectetur adcing elit Lorem ipsum dolor sit amet, consectetur adip iscing elit psum dolor sit amet.",
+        "img": "",
+        "color": "#EDBF47"
+    },
+    {
+        "key": "b8",
+        "title": "",
+        "body": "Lorem ipsum dolor sit amet, consectetur adcing elit Lorem ipsum dolor sit amet, consectetur adip iscing elit psum dolor sit amet.",
+        "img": "",
+        "color": "#E16C6C"
+    },
+    {
+        "key": "b9",
+        "title": "Check New Events",
+        "body": "Lorem ipsum dolor sit amet, consectetur adcing elit Lorem ipsum dolor sit amet, consectetur adip iscing elit psum dolor sit amet.",
+        "img": "",
+        "color": "#74CEE4"
+    }
+]

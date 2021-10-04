@@ -1,0 +1,19 @@
+.blog-header {
+    margin: 10px 170px;
+    text-align: start;
+}
+.all-news {
+    margin: 20px 170px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+.single-cart {
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    width: 24rem;
+    border: 0px;
+}
+
+#b2 {
+    grid-row: 3/5;
+}

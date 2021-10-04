@@ -6,7 +6,7 @@ import './AboutUs.css';
 const AboutUs = () => {
     return (
         <div>
-            <CoverPage coverText="About Us" />
+            <CoverPage coverText="About Us" services="about-us" />
             <Quality />
         </div>
     );

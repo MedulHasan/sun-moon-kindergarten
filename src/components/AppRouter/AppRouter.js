@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import AboutUs from '../AboutUs/AboutUs';
+import Blog from '../Blog/Blog';
 import Footer from '../Footer/Footer';
 import Header from '../Header/Header/Header';
 import Home from '../Home/Home';
@@ -20,6 +21,9 @@ const AppRouter = () => {
                     </Route>
                     <Route path="/services">
                         <Services />
+                    </Route>
+                    <Route path="/blog">
+                        <Blog />
                     </Route>
                 </Switch>
                 <Footer />
