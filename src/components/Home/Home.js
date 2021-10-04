@@ -1,5 +1,7 @@
 import React from 'react';
+import Courses from '../Courses/Courses';
 import ServicesHome from '../services/ServicesHome';
+import TopicHeadline from '../TopicHeadline/TopicHeadline';
 import './Home.css'
 
 const Home = () => {
@@ -14,8 +16,10 @@ const Home = () => {
                     <p><span>for</span> AND <span>kind</span> OF TEACHING</p>
                 </div>
             </div>
-            <h1 className="our-service mt-3">OUR SERVICES</h1>
+            <TopicHeadline topic="OUR SERVICES" color="#000" />
             <ServicesHome />
+            <TopicHeadline topic="OUR COURSES" color="#000" />
+            <Courses />
         </div>
     );
 };

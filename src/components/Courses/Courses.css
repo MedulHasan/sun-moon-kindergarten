@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+.courses {
+    margin: 20px 170px;
+    column-gap: 20px;
+    text-align: start;
+    font-family: 'Raleway', sans-serif;
+}
+.single-courses {
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.instructor {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}

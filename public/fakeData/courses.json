@@ -1,0 +1,29 @@
+[
+    {
+        "key": "c1",
+        "title": "Orienteering",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula nullam augue.",
+        "img": "https://www.vmcdn.ca/f/files/airdrietoday/import/24/2018/08/CochraneOrienteeringWeb.jpg;w=677",
+        "color": "#E16C6C",
+        "name": "Abiha",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkBj2uVvnrc8jFkpfnC2fUMl-0HkXUYv6ZA&usqp=CAU"
+    },
+    {
+        "key": "c2",
+        "title": "Outdoor Activity",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula nullam augue.",
+        "img": "https://funacademy.fi/wp-content/uploads/2018/06/shutterstock_459100483_720-wordpress-1024x675.jpg",
+        "color": "#EC774B",
+        "name": "Shafayet",
+        "logo": "https://s35691.pcdn.co/wp-content/uploads/2012/11/online-learning.121102.jpg"
+    },
+    {
+        "key": "c3",
+        "title": "Drawing Course",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas magna at porttitor vehicula nullam augue.",
+        "img": "https://image.freepik.com/free-photo/kid-drawing-on-play-mat-in-studio_23-2147851807.jpg",
+        "color": "#C389CE",
+        "name": "Sefa",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThb76iUp54tKs36KvZAJtBX4hDHVruQ1EljQ&usqp=CAU"
+    }
+]
