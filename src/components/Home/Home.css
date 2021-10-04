@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+
+.home {
+    position: relative;
+    width: 100%;
+    height: 56.6vh;
+}
+
+.home::before {
+    content: "";
+    background-image: url('../../img/bg-3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.2;
+}
+
+.cover-pic {
+    position: relative;
+    margin-left: 100px;
+}
+
+.cover-text {
+    margin-right: 200px;
+    /* font-weight: 700; */
+}
+.cover-text h1 {
+    font-size: 48px;
+    margin-right: 50px;
+    font-weight: 900;
+}
+.cover-text p {
+    margin-left: 30px;
+    font-size: 24px;
+    font-weight: 700;
+}
+.cover-text p span {
+    font-family: 'Ephesis', cursive;
+}
+.edu {
+    margin-left: 300px;
+}

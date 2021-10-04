@@ -1,0 +1,18 @@
+.footer {
+    color: #fff;
+}
+.footer p {
+    color: #969798;
+}
+.footer-top {
+    background-color: #495052;
+    padding: 50px 0px;
+}
+.footer-buttom {
+    background-color: #404548;
+    padding: 10px 150px;
+}
+.social-icon {
+    font-size: 20px;
+    margin-right: 10px;
+}
