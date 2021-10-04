@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+.qualitys {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    text-align: start;
+    margin: 50px 170px;
+    grid-gap: 50px;
+    font-family: 'Raleway', sans-serif;
+    color: #868585;
+}
+.single-quality h1 {
+    letter-spacing: 3px;
+}
+.single-quality p {
+    line-height: 30px;
+}

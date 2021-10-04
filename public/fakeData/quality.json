@@ -1,0 +1,26 @@
+[
+    {
+        "key": "01",
+        "name": "Experience",
+        "color": "#E16C6C",
+        "detail": "Phasellus enim libero, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod orci ut et lobortis. Blandit vel sapien vitae, condimentum ultricies magna et orci ut et lobortis."
+    },
+    {
+        "key": "02",
+        "color": "#70C191",
+        "name": "Professionality",
+        "detail": "Phasellus enim libero, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod orci ut et lobortis. Blandit vel sapien vitae, condimentum ultricies magna et orci ut et lobortis."
+    },
+    {
+        "key": "03",
+        "color": "#74CEE4",
+        "name": "Guarantee",
+        "detail": "Phasellus enim libero, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod orci ut et lobortis. Blandit vel sapien vitae, condimentum ultricies magna et orci ut et lobortis."
+    },
+    {
+        "key": "04",
+        "color": "#EDBF47",
+        "name": "Quality",
+        "detail": "Phasellus enim libero, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod orci ut et lobortis. Blandit vel sapien vitae, condimentum ultricies magna et orci ut et lobortis."
+    }
+]

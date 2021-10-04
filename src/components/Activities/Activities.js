@@ -18,7 +18,7 @@ const Activities = () => {
             <div className="single-activitie">
                 {
                     activities.map(activitie => (
-                        <div className="d-flex">
+                        <div key={activitie.key} className="d-flex">
                             <img className="activitie-logo me-4" src={activitie.img} alt="" />
                             <div>
                                 <h3>{activitie.name}</h3>

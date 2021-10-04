@@ -1,0 +1,12 @@
+.popular-classes {
+    margin: 10px 170px;
+}
+.card-footer {
+    display: flex;
+    padding: 0px !important;
+}
+.class-time {
+    margin-top: -70px;
+    margin-left: 15px;
+    padding: 5px 10px;
+}
