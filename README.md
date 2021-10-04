@@ -1,5 +1,8 @@
 # Sun-Moon kindergarden
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Chttps://hungry-borg-fc1542.netlify.app/blog](https://hungry-borg-fc1542.netlify.app/blog).
 
-## Available Scripts
+## Project Details
+- A Primary School Education System
+- We served a International Courses
+- You can learn about our courses online and take courses online. 
