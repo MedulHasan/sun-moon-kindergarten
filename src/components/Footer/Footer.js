@@ -28,7 +28,7 @@ const Footer = () => {
                     <Button variant="info">Send</Button>
                 </div>
             </div>
-            <div className="footer-buttom d-flex justify-content-between">
+            <div className="footer-buttom d-flex justify-content-between align-items-center">
                 <p>&copy; Copyrignt 2021 - Medul</p>
                 <p>Creating by React js</p>
             </div>

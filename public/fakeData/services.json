@@ -1,0 +1,30 @@
+[
+    {
+        "key": "s1",
+        "icon": "http://www.nicdarkthemes.com/themes/children/wp/demo/wp-content/uploads/2018/09/icon-1.png",
+        "subject": "GEOGRAPHY",
+        "body": "Phasellus enim libero, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod.",
+        "btnColor": "#74CEE4"
+    },
+    {
+        "key": "s2",
+        "icon": "http://www.nicdarkthemes.com/themes/children/wp/demo/wp-content/uploads/2018/09/icon-3.png",
+        "subject": "MICROSCOPE",
+        "body": "Phasellus enim libero, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod.",
+        "btnColor": "#EDBF47"
+    },
+    {
+        "key": "s3",
+        "icon": "http://www.nicdarkthemes.com/themes/children/wp/demo/wp-content/uploads/2018/09/icon-2.png",
+        "subject": "ART LABS",
+        "body": "Phasellus enim libero, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod.",
+        "btnColor": "#EC774B"
+    },
+    {
+        "key": "s4",
+        "icon": "http://www.nicdarkthemes.com/themes/children/wp/demo/wp-content/uploads/2018/09/icon-4.png",
+        "subject": "MATHEMATICS",
+        "body": "Phasellus enim libero, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod.",
+        "btnColor": "#6FC191"
+    }
+]

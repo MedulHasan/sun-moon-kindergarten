@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,700;1,400&display=swap');
+
+.services-home {
+    margin: 30px 170px;
+    color: #8B8A8A;
+    
+}
+.single-service {
+    text-align: start;
+    width: 250px;
+}
+.single-service:not(:last-child) {
+    margin-right: 60px;
+}
+.single-service h5 {
+    letter-spacing: 3px;
+}
+.single-service p {
+    line-height: 30px;
+}
+.service-icon {
+    width: 50px;
+}

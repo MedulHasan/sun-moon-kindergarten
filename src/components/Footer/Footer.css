@@ -12,6 +12,9 @@
     background-color: #404548;
     padding: 10px 150px;
 }
+.footer-buttom p {
+    margin-bottom: 0;
+}
 .social-icon {
     font-size: 20px;
     margin-right: 10px;

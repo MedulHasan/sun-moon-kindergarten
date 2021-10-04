@@ -1,0 +1,38 @@
+[
+    {
+        "key": "ac1",
+        "name": "CUSTOM FOOD",
+        "details": "Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant, animal or fungal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals. ",
+        "img": "https://media.istockphoto.com/vectors/restaurant-logo-vector-id1156053620?b=1&k=20&m=1156053620&s=612x612&w=0&h=T5kmdm-_eSUPivYWS2vscBVLjDD-PTgF7AHiYUD2lDc="
+    },
+    {
+        "key": "ac2",
+        "name": "MANY SPORTS",
+        "details": "A sports film is a film genre that uses sport as the theme of the film. It is a production in which a sport, sporting event, athlete, or follower of sport are prominently featured, and which depend on sport to a significant degree for their plot motivation or resolution.",
+        "img": "https://w7.pngwing.com/pngs/303/549/png-transparent-sport-logo-football-sports-logos-text-sport-logo.png"
+    },
+    {
+        "key": "ac3",
+        "name": "BUS SERVICE",
+        "details": "A bus (contracted from omnibus,[1] with variants multibus, motorbus, autobus, etc.) is a public transport road vehicle designed to carry significantly more passengers that the average cars or vans. Buses can have a capacity as high as 300 passengers. ",
+        "img": "https://w7.pngwing.com/pngs/332/370/png-transparent-bus-stop-aec-routemaster-computer-icons-bus-angle-rectangle-school-bus.png"
+    },
+    {
+        "key": "ac4",
+        "name": "MUSIC LESSON",
+        "details": "Music is the art of arranging sounds in time through the elements of melody, harmony, rhythm, and timbre.[1][2]It is one of the universal cultural aspects of all human societies. ",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScLTg4hi8kH57uxC8HqGLuCUd01LCrSZzSwA&usqp=CAU"
+    },
+    {
+        "key": "ac5",
+        "name": "EXCURSIONS",
+        "details": "An excursion is a trip by a group of people, usually made for leisure, education, or physical purposes. It is often an adjunct to a longer journey or visit a place, sometimes for other. ",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfg2llEQG7aYmkEJatHG9Dj8aVbldw2cUEQPFwLRzKJblWq8LtZaGbfnhPRuujm_BF4vg&usqp=CAU"
+    },
+    {
+        "key": "ac6",
+        "name": "LANGUAGES",
+        "details": "A language is a structured system of communication used by humans, based on speech and gesture, sign, or often writing. The structure of language is its grammar and the free components are its vocabulary.",
+        "img": "https://icon-library.com/images/34-512_68220.png"
+    }
+]

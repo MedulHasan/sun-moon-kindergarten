@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap');
+.activitie {
+    padding: 50px 170px;
+    background-color: #F1F1F1;
+    color: #949393;
+}
+.activitie-logo {
+    width: 100px;
+    height: 100px;
+}
+.single-activitie {
+    font-family: 'Slabo 27px', serif;
+    text-align: start;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}

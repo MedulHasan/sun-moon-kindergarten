@@ -7,7 +7,7 @@ const NavigationLink = () => {
         <div className="navigatiob-bar">
             <NavLink className="nav-link" to="/">Home</NavLink>
             <NavLink className="nav-link" to="/about">About Us</NavLink>
-            <NavLink className="nav-link" to="/service">Service</NavLink>
+            <NavLink className="nav-link" to="/services">Service</NavLink>
             <NavLink className="nav-link" to="/blog">Blog</NavLink>
         </div>
     );

@@ -1,4 +1,5 @@
 import React from 'react';
+import ServicesHome from '../services/ServicesHome';
 import './Home.css'
 
 const Home = () => {
@@ -13,6 +14,8 @@ const Home = () => {
                     <p><span>for</span> AND <span>kind</span> OF TEACHING</p>
                 </div>
             </div>
+            <h1 className="our-service mt-3">OUR SERVICES</h1>
+            <ServicesHome />
         </div>
     );
 };
