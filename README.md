@@ -1,6 +1,6 @@
 # Sun-Moon kindergarden
 
-[Chttps://hungry-borg-fc1542.netlify.app/blog](https://hungry-borg-fc1542.netlify.app/blog).
+[https://sun-moon-kindergarten-react.netlify.app/](https://sun-moon-kindergarten-react.netlify.app/).
 
 ## Project Details
 - A Primary School Education System
