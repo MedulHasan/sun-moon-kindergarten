@@ -6,6 +6,7 @@ import Footer from '../Footer/Footer';
 import Header from '../Header/Header/Header';
 import Home from '../Home/Home';
 import Services from '../services/Services';
+import NotFound from '../NotFound/NotFound'
 
 const AppRouter = () => {
     return (
@@ -24,6 +25,9 @@ const AppRouter = () => {
                     </Route>
                     <Route path="/blog">
                         <Blog />
+                    </Route>
+                    <Route path="*">
+                        <NotFound />
                     </Route>
                 </Switch>
                 <Footer />
