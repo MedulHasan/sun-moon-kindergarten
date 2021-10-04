@@ -5,9 +5,10 @@ import './Header.css'
 const Header = () => {
     return (
         <div className="d-flex align-items-center justify-content-between header">
-            <h3>
-                Sun-Moon
-            </h3>
+            <div>
+                <h3 className="m-0">Sun-Moon</h3>
+                <p className="logo-2">Kindergarten</p>
+            </div>
             <NavigationLink />
         </div>
     );
